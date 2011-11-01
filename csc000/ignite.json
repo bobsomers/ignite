@@ -1,0 +1,332 @@
+{
+    "width": 1000,
+    "height": 744,
+    "slides": [{
+        "background": "images/ignite.png",
+        "timing": "click",
+        "textboxes": []
+    }, {
+        "background": "#65594d",
+        "timing": 15,
+        "textboxes": [{
+            "text": "CSC 000",
+            "font": "150px 'Ubuntu'",
+            "color": "#d5cfa7",
+            "shadow": "3px 3px 4px #3e362f",
+            "x": 210,
+            "y": 100
+        }, {
+            "text": "The things you need to know",
+            "font": "72px 'OFL Sorts Mill Goudy TT'",
+            "color": "#fff",
+            "shadow": "3px 3px 4px #3e362f",
+            "x": 35,
+            "y": 150
+        }, {
+            "text": "by graduation",
+            "font": "72px 'OFL Sorts Mill Goudy TT'",
+            "color": "#fff",
+            "shadow": "3px 3px 4px #3e362f",
+            "x": 280,
+            "y": 140
+        }, {
+            "text": "that nobody will teach you.",
+            "font": "72px 'OFL Sorts Mill Goudy TT'",
+            "color": "#fff",
+            "shadow": "3px 3px 4px #3e362f",
+            "x": 80,
+            "y": 130
+        }]
+    }, {
+        "background": "images/whoami.jpg",
+        "timing": 15,
+        "textboxes": [{
+            "text": "Who is this guy?",
+            "font": "72px 'OFL Sorts Mill Goudy TT'",
+            "color": "#fff",
+            "shadow": "3px 3px 4px #3e362f",
+            "x": 250,
+            "y": 600
+        }]
+    }, {
+        "background": "images/disclaimer.jpg",
+        "timing": 15,
+        "textboxes": [{
+            "text": "DISCLAIMER",
+            "font": "100px 'Ubuntu'",
+            "color": "#fff",
+            "shadow": "3px 3px 4px #000",
+            "x": 320,
+            "y": 600
+        }]
+    }, {
+        "background": "images/tools.jpg",
+        "timing": 15,
+        "textboxes": [{
+            "text": "Know thy tools.",
+            "font": "90px 'OFL Sorts Mill Goudy TT'",
+            "color": "#fff",
+            "shadow": "3px 3px 4px #3e362f",
+            "x": 350,
+            "y": 610
+        }]
+    }, {
+        "background": "images/productivity.jpg",
+        "timing": 15,
+        "textboxes": [{
+            "text": "They'll make you productive.",
+            "font": "72px 'OFL Sorts Mill Goudy TT'",
+            "color": "#fff",
+            "shadow": "3px 3px 4px #3e362f",
+            "x": 40,
+            "y": 600
+        }]
+    }, {
+        "background": "images/readwrite.jpg",
+        "timing": 15,
+        "textboxes": [{
+            "text": "You will read more than you write.",
+            "font": "60px 'OFL Sorts Mill Goudy TT'",
+            "color": "#fff",
+            "shadow": "3px 3px 4px #3e362f",
+            "x": 50,
+            "y": 620
+        }]
+    }, {
+        "background": "images/techdocs.jpg",
+        "timing": 15,
+        "textboxes": [{
+            "text": "Technical docs suck.",
+            "font": "90px 'OFL Sorts Mill Goudy TT'",
+            "color": "#fff",
+            "shadow": "3px 3px 4px #3e362f",
+            "x": 100,
+            "y": 40
+        }, {
+            "text": "Learn to parse them.",
+            "font": "90px 'OFL Sorts Mill Goudy TT'",
+            "color": "#fff",
+            "shadow": "3px 3px 4px #3e362f",
+            "x": 110,
+            "y": 440
+        }]
+    }, {
+        "background": "images/users.jpg",
+        "timing": 15,
+        "textboxes": [{
+            "text": "Always think about the users.",
+            "font": "72px 'OFL Sorts Mill Goudy TT'",
+            "color": "#fff",
+            "shadow": "3px 3px 4px #3e362f",
+            "x": 40,
+            "y": 40
+        }]
+    }, {
+        "background": "images/colorblindness.jpg",
+        "timing": 15,
+        "textboxes": []
+    }, {
+        "background": "images/typicalday.jpg",
+        "timing": 15,
+        "textboxes": [{
+            "text": "What's a typical day like?",
+            "font": "80px 'OFL Sorts Mill Goudy TT'",
+            "color": "#000",
+            "shadow": "3px 3px 4px #fff",
+            "x": 60,
+            "y": 40
+        }]
+    }, {
+        "background": "images/happysad.jpg",
+        "timing": 15,
+        "textboxes": [{
+            "text": "It really matters.",
+            "font": "80px 'OFL Sorts Mill Goudy TT'",
+            "color": "#fff",
+            "shadow": "3px 3px 4px #3e362f",
+            "x": 230,
+            "y": 50
+        }, {
+            "text": "One of these will be you.",
+            "font": "80px 'OFL Sorts Mill Goudy TT'",
+            "color": "#fff",
+            "shadow": "3px 3px 4px #3e362f",
+            "x": 80,
+            "y": 450
+        }]
+    }, {
+        "background": "images/ifixit.jpg",
+        "timing": 15,
+        "textboxes": [{
+            "text": "Consider a small company.",
+            "font": "80px 'OFL Sorts Mill Goudy TT'",
+            "color": "#fff",
+            "shadow": "3px 3px 4px #3e362f",
+            "x": 40,
+            "y": 550
+        }]
+    }, {
+        "background": "images/cubefarm.jpg",
+        "timing": 15,
+        "textboxes": []
+    }, {
+        "background": "images/risks.jpg",
+        "timing": 15,
+        "textboxes": [{
+            "text": "There are serious health risks.",
+            "font": "72px 'OFL Sorts Mill Goudy TT'",
+            "color": "#fff",
+            "shadow": "3px 3px 4px #3e362f",
+            "x": 45,
+            "y": 80
+        }, {
+            "text": "Seriously.",
+            "font": "100px 'OFL Sorts Mill Goudy TT'",
+            "color": "#fff",
+            "shadow": "3px 3px 4px #3e362f",
+            "x": 300,
+            "y": 420
+        }]
+    }, {
+        "background": "#65594d",
+        "timing": 15,
+        "textboxes": [{ 
+            "text": "Wrist pain from RSI.",
+            "font": "48px 'OFL Sorts Mill Goudy TT'",
+            "color": "#fff",
+            "shadow": "3px 3px 4px #3e362f",
+            "x": 30,
+            "y": 50
+        }, {
+            "text": "Eye problems from staring at screens.",
+            "font": "48px 'OFL Sorts Mill Goudy TT'",
+            "color": "#fff",
+            "shadow": "3px 3px 4px #3e362f",
+            "x": 30,
+            "y": 50
+        }, {
+            "text": "Back issues from poor posture.",
+            "font": "48px 'OFL Sorts Mill Goudy TT'",
+            "color": "#fff",
+            "shadow": "3px 3px 4px #3e362f",
+            "x": 30,
+            "y": 50
+        }, {
+            "text": "Bowel and urinary problems.",
+            "font": "48px 'OFL Sorts Mill Goudy TT'",
+            "color": "#fff",
+            "shadow": "3px 3px 4px #3e362f",
+            "x": 30,
+            "y": 50
+        }, {
+            "text": "Dehydration from too much caffeine.",
+            "font": "48px 'OFL Sorts Mill Goudy TT'",
+            "color": "#fff",
+            "shadow": "3px 3px 4px #3e362f",
+            "x": 30,
+            "y": 50
+        }, {
+            "text": "Hemorrhoids and pilonidal cysts from sitting.",
+            "font": "48px 'OFL Sorts Mill Goudy TT'",
+            "color": "#fff",
+            "shadow": "3px 3px 4px #3e362f",
+            "x": 30,
+            "y": 50
+        }, {
+            "text": "Vitamin D deficiency from not going outside.",
+            "font": "48px 'OFL Sorts Mill Goudy TT'",
+            "color": "#fff",
+            "shadow": "3px 3px 4px #3e362f",
+            "x": 30,
+            "y": 50
+        }, {
+            "text": "Sleeping disorders for many reasons.",
+            "font": "48px 'OFL Sorts Mill Goudy TT'",
+            "color": "#fff",
+            "shadow": "3px 3px 4px #3e362f",
+            "x": 30,
+            "y": 50
+        }, {
+            "text": "Stiffness and soreness from not stretching.",
+            "font": "48px 'OFL Sorts Mill Goudy TT'",
+            "color": "#fff",
+            "shadow": "3px 3px 4px #3e362f",
+            "x": 30,
+            "y": 50
+        }]
+    }, {
+        "background": "images/chair.jpg",
+        "timing": 15,
+        "textboxes": [{
+            "text": "Invest in a sweet chair.",
+            "font": "72px 'OFL Sorts Mill Goudy TT'",
+            "color": "#fff",
+            "shadow": "3px 3px 4px #3e362f",
+            "x": 180,
+            "y": 200
+        }, {
+            "text": "Your ass will thank you.",
+            "font": "80px 'OFL Sorts Mill Goudy TT'",
+            "color": "#fff",
+            "shadow": "3px 3px 4px #3e362f",
+            "x": 90,
+            "y": 500
+        }]
+    }, {
+        "background": "images/healthy.jpg",
+        "timing": 15,
+        "textboxes": [{
+            "text": "Shoot for at least a",
+            "font": "72px 'OFL Sorts Mill Goudy TT'",
+            "color": "#fff",
+            "shadow": "3px 3px 4px #3e362f",
+            "x": 200,
+            "y": 240
+        }, {
+            "text": "mildly healthy",
+            "font": "100px 'OFL Sorts Mill Goudy TT'",
+            "color": "#fff",
+            "shadow": "3px 3px 4px #3e362f",
+            "x": 175,
+            "y": 210
+        }, {
+            "text": "lifestyle.",
+            "font": "72px 'OFL Sorts Mill Goudy TT'",
+            "color": "#fff",
+            "shadow": "3px 3px 4px #3e362f",
+            "x": 360,
+            "y": 180
+        }, {
+        }]
+    }, {
+        "background": "images/goodnews.jpg",
+        "timing": 15,
+        "textboxes": [{
+            "text": "Good news!",
+            "font": "100px 'OFL Sorts Mill Goudy TT'",
+            "color": "#65594d",
+            "shadow": "3px 3px 4px #d5cfa7",
+            "x": 40,
+            "y": 150
+        }, {
+            "text": "You chose well.",
+            "font": "80px 'OFL Sorts Mill Goudy TT'",
+            "color": "#65594d",
+            "shadow": "3px 3px 4px #d5cfa7",
+            "x": 40,
+            "y": 300
+        }]
+    }, {
+        "background": "images/slo.jpg",
+        "timing": 15,
+        "textboxes": []
+    }, {
+        "background": "images/ferris.jpg",
+        "timing": 15,
+        "textboxes": []
+    }, {
+        "background": "images/ignite.png",
+        "timing": "click",
+        "textboxes": []
+    }]
+}

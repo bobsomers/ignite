@@ -1,0 +1,32 @@
+body {
+    background: url(bg.png) #eee;
+}
+
+#window {
+    position: absolute;
+    left: 50%;
+    top: 12px;
+    overflow: hidden;
+}
+
+#deck {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+div.slide {
+    border-radius: 30px;
+}
+
+#help {
+    position: absolute;
+    left: 50%;
+    bottom: 20px;
+    width: 700px;
+    margin-left: -350px;
+    text-align: center;
+    font: 72px 'OFL Sorts Mill Goudy TT';
+    color: #3e362f;
+    text-shadow: 3px 3px 4px #d5cfa7;
+}
